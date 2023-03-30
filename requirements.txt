@@ -1,0 +1,6 @@
+pandas
+numpy
+flask
+
+
+-e . ##giving this instruction our folder will aslo be seen in package list
